@@ -7,6 +7,7 @@ Steps :
 2.Install maven dependancies.
 
 -Main File runs the Bio Java Algorithm.
+
 -Main1.java File runs the modified algorithm.
 
 3.Give absalute path of the refernace sequence (eg. BRCA Gene) by replacing <Path of File>.
