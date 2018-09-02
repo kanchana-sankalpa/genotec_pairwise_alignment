@@ -11,6 +11,7 @@ Steps :
 -Main1.java File runs the modified algorithm.
 
 3.Give absalute path of the refernace sequence (eg. BRCA Gene) by replacing <Path of File>.
+  Sample BRCA1_REF.txt and Dystrophin_REF.txt exhist in the src folder.
   
 4.Select relevent patient sequecne to varibles dummyPatientBRACASeq, dummyPatientBRACASeq.
 
