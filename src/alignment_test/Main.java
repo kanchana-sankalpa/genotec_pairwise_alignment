@@ -36,8 +36,7 @@ public class Main {
         			+ "AGAGAGACCTTACAGCCAGGTGAGGTGAATGTACCTATAATCCCAGCTACTTAGGAGGCT";
         	
     		
-    	//String referanceFilePath = "C:/Users/Win 8/Desktop/final year project re write/BRCA1_REF.txt";
-        	// Path of the Refernace file BRCA
+        	// Path of the Refernace sequence file BRCA
         	String referanceFilePath = "<Path of File>/BRCA1_REF.txt";
         	SequenceAlignmentManager.alignSequenceLocal(dummyPatientBRACASeq1,referanceFilePath);
         } catch (Exception ex) {
