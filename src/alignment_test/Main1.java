@@ -66,7 +66,6 @@ public class Main1 {
 +"AGATAAAAGTAAAAAGAAGGAGACTGTTTTTTTTTTTTAAATTCTATTAAGAAACCAAATTTTAACAGAC";*/
     	            
     	// Path of the Refernace file BRCA
-    	// "C:/Users/Win 8/Desktop/final year project re write/Dropamine.txt"
     	String referanceFilePath = "<Path of File>/BRCA1_REF.txt";
 	 GT_LocalAlignmentManager alignmentManager = new GT_LocalAlignmentManager(
 			 dummyPatientBRACASeq1,dummyPatientBRACASeq2,referanceFilePath);
